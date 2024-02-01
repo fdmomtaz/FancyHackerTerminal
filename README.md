@@ -2,6 +2,8 @@
 
 FancyHackerTerminal is a command-line interface (CLI) application written in .NET, designed to display text in a "hackery" style, reminiscent of classic computer hacker scenes in movies. It offers customizable options for text and background colors, text display speeds, and the ability to use either custom code snippets from a file or generate random code.
 
+![Demo](demo.gif)
+
 ## Features
 
 - Customizable Text Color: Choose from various colors for the text display.
